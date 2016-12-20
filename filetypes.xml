@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="Taipei-bg" type="CSS" />
-      <mapping pattern="Taipei" type="CSS" />
-      <mapping pattern="Login" type="JavaFX" />
-    </extensionMap>
-  </component>
-</application>
