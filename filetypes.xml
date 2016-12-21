@@ -4,6 +4,7 @@
       <mapping pattern="Taipei-bg" type="CSS" />
       <mapping pattern="Taipei" type="CSS" />
       <mapping pattern="Login" type="JavaFX" />
+      <mapping ext="sqlite" type="SQL" />
     </extensionMap>
   </component>
 </application>
